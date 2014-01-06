@@ -4,7 +4,7 @@ A couple of quick notes about this solution.
 
 2. Unless explicitly stated, I tried to assume input is correct. I opted for minimal edge case validation for the purposes of keeping the implementation simple and easy to review.
 
-3. To run, you can `./run_ocr.rb recommended_test_cases.rb`
+3. To run, you can `./run_ocr.rb recommended_test_cases.txt`
 
 4. Purely by coincidence:
 ```bash
