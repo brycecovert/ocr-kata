@@ -10,7 +10,6 @@ A couple of quick notes about this solution.
 ```bash
 $ cat *.rb | wc -l
       56
-
 $ wc -l recommended_test_cases.txt
       56
 ```
